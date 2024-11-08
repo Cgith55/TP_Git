@@ -1,0 +1,8 @@
+Dans votre branche, créer le fichier « Prenom_NOM.txt ». Remplissez ce fichier
+comme vous le souhaitez (exemple : adresse email, date de naissance...). Validez les
+modifications, n’oubliez pas de saisir un message de commit pour expliquer ce que
+vous avez fait !
+
+
+test@test.com
+01/01/1999
